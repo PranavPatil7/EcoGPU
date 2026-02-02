@@ -1,4 +1,4 @@
-# LLM-Inference-Engine-Benchmark
+# Eco GPU – AI Inference Energy Profiler                                                                                       
 A comprehensive benchmarking tool for measuring energy consumption and power efficiency of Large Language Model (LLM) inference engines including vLLM, DeepSpeed, TensorRT-LLM, and Transformers. Featured in HotCarbon '25.
 
 ## 🎯 Overview
@@ -227,10 +227,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - NVIDIA optimized inference
 - [Transformers](https://github.com/huggingface/transformers) - Hugging Face model library
 
-## 🛟 Support
 
-- **Email**: ncxhxgtg@gmail.com
-
----
-
-**Note**: This tool requires specific hardware (NVIDIA GPUs, Intel CPUs with RAPL) and system permissions for accurate power monitoring. See the installation guide for detailed setup instructions.
